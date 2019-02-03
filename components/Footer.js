@@ -32,7 +32,7 @@ const Footer = () => {
 		<StyledFooter>
 			<div>
 				<Container>
-					<a target="_blank" href="https://github.com/tehqDev/tic-tac-toe">
+					<a target="_blank" href="https://github.com/tehqDev/redux-todo">
 						<Octicon size="medium" icon={MarkGithub} />{' '}
 					</a>
 				</Container>
